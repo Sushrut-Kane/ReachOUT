@@ -13,10 +13,9 @@ ReachOUT is a platform designed to connect people who need help with those who c
 ## Technologies Used
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: (Mention your backend if any, e.g., Node.js, Firebase)
-- Database: (Mention your database if any, e.g., Firebase, MongoDB)
-- Authentication: (Mention method, e.g., Firebase Auth, JWT)
-
+- Backend: (Node.js, Firebase)
+- Database: (Firebase, MongoDB)
+- Authentication: (Firebase Auth, JWT)
 ## Folder Structure
 
 ```bash
